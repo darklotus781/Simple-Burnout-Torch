@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "litstate=0": {
+      "model": "simple_burnout_torch:block/burnable_torch_unlit"
+    },
+    "litstate=1": {
+      "model": "simple_burnout_torch:block/burnable_torch_smoldering"
+    },
+    "litstate=2": {
+      "model": "minecraft:block/torch"
+    }
+  }
+}

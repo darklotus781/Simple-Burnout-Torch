@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:jack_o_lantern",
+    {
+      "id": "#chipped:jack_o_lantern",
+      "required": false
+    }
+  ]
+}

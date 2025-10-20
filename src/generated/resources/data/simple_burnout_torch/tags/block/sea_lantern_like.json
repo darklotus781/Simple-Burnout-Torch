@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:sea_lantern",
+    {
+      "id": "#chipped:sea_lantern",
+      "required": false
+    }
+  ]
+}

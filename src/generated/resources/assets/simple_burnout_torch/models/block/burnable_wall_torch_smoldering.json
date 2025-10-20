@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_torch_wall",
+  "textures": {
+    "torch": "simple_burnout_torch:block/burnable_torch_smoldering"
+  }
+}

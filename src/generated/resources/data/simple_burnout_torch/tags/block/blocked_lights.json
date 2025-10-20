@@ -1,0 +1,11 @@
+{
+  "values": [
+    "#simple_burnout_torch:sea_lantern_like",
+    "#simple_burnout_torch:glowstone_like",
+    "#simple_burnout_torch:jack_o_lantern_like",
+    {
+      "id": "#stuff_and_things:light_blocks",
+      "required": false
+    }
+  ]
+}

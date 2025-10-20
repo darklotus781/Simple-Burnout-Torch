@@ -1,0 +1,7 @@
+{
+  "block.simple_burnout_torch.burnable_torch": "Torch",
+  "block.simple_burnout_torch.burnable_wall_torch": "Torch",
+  "block.simple_burnout_torch.burned_out_torch": "Extinguished Torch",
+  "block.simple_burnout_torch.burned_out_wall_torch": "Extinguished Torch",
+  "message.simple_burnout_torch.light_blocked": "That light source doesn't work here."
+}
